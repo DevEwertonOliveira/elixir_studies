@@ -5,7 +5,7 @@
 - O build irá depender do postgres
 
 # Processos de instalação e configuração de um projeto básico elixir com postgres e dockerfile
-# Créditos à [César Willian Alvarenga](https://medium.com/swlh/use-docker-to-create-an-elixir-phoenix-development-environment-e1a81def1d2e)
+## Créditos à [César Willian Alvarenga](https://medium.com/swlh/use-docker-to-create-an-elixir-phoenix-development-environment-e1a81def1d2e)
 
 
 ## Caso possua o docker e o docker-compose instalado em sua máquina, rode os seguintes comandos
